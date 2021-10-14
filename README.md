@@ -2,6 +2,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/emanuelealbertosi/Lab3/badge.svg?branch=master)](https://coveralls.io/github/emanuelealbertosi/Lab3?branch=master)
 
+
 ### Setup the environment
 
 To setup the environment, you should follow these steps:
