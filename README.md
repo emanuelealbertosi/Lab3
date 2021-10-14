@@ -1,5 +1,5 @@
 # ASE Calc Microservice
-
+[![Build Status](https://app.travis-ci.com/emanuelealbertosi/Lab3.svg?branch=master)](https://app.travis-ci.com/emanuelealbertosi/Lab3)
 [![Coverage Status](https://coveralls.io/repos/github/emanuelealbertosi/Lab3/badge.svg?branch=master)](https://coveralls.io/github/emanuelealbertosi/Lab3?branch=master)
 
 
